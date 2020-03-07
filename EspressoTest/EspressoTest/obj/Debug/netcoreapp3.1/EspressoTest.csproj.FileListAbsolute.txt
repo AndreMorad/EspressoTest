@@ -1,0 +1,11 @@
+C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_VT\Dataåtkomster i .NET\EspressoProject\EspressoTest\EspressoTest\EspressoTest\bin\Debug\netcoreapp3.1\EspressoTest.exe
+C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_VT\Dataåtkomster i .NET\EspressoProject\EspressoTest\EspressoTest\EspressoTest\bin\Debug\netcoreapp3.1\EspressoTest.deps.json
+C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_VT\Dataåtkomster i .NET\EspressoProject\EspressoTest\EspressoTest\EspressoTest\bin\Debug\netcoreapp3.1\EspressoTest.runtimeconfig.json
+C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_VT\Dataåtkomster i .NET\EspressoProject\EspressoTest\EspressoTest\EspressoTest\bin\Debug\netcoreapp3.1\EspressoTest.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_VT\Dataåtkomster i .NET\EspressoProject\EspressoTest\EspressoTest\EspressoTest\bin\Debug\netcoreapp3.1\EspressoTest.dll
+C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_VT\Dataåtkomster i .NET\EspressoProject\EspressoTest\EspressoTest\EspressoTest\bin\Debug\netcoreapp3.1\EspressoTest.pdb
+C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_VT\Dataåtkomster i .NET\EspressoProject\EspressoTest\EspressoTest\EspressoTest\obj\Debug\netcoreapp3.1\EspressoTest.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_VT\Dataåtkomster i .NET\EspressoProject\EspressoTest\EspressoTest\EspressoTest\obj\Debug\netcoreapp3.1\EspressoTest.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_VT\Dataåtkomster i .NET\EspressoProject\EspressoTest\EspressoTest\EspressoTest\obj\Debug\netcoreapp3.1\EspressoTest.AssemblyInfo.cs
+C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_VT\Dataåtkomster i .NET\EspressoProject\EspressoTest\EspressoTest\EspressoTest\obj\Debug\netcoreapp3.1\EspressoTest.dll
+C:\Users\andre\OneDrive\_Programmering\Teknik_Hogskolan\2020_VT\Dataåtkomster i .NET\EspressoProject\EspressoTest\EspressoTest\EspressoTest\obj\Debug\netcoreapp3.1\EspressoTest.pdb

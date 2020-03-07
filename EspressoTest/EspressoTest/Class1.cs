@@ -1,12 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 
-
-namespace EspressoTest
+namespace Coffe
 {
     public interface ICoffee
     {
-
         string CoffeeType { get; set; }
 
         ICoffee AddChocolateSyrup();
@@ -15,27 +13,20 @@ namespace EspressoTest
         ICoffee AddMilkFoam();
         ICoffee AddWater();
         ICoffee CreateBewerage();
-
     }
-
 
     class Program
     {
-
         static void Main(string[] args)
         {
             ICoffee coffee = new CoffeMaker().AddEspresso().AddMilk().CreateBewerage();
         }
-
-
     }
 
     public class CoffeMaker : ICoffee
     {
-
         public List<string> Ingredients = new List<string>();
         public string CoffeeType { get; set; }
-
 
         public ICoffee AddChocolateSyrup()
         {
@@ -55,7 +46,6 @@ namespace EspressoTest
             return this;
         }
 
-
         public ICoffee AddMilkFoam()
         {
             ((List<string>)Ingredients).Add("Milkfoam");
@@ -70,8 +60,6 @@ namespace EspressoTest
 
         public ICoffee CreateBewerage()
         {
-
-
             if (Ingredients.Count <= 2 && Ingredients.Contains("Milk") && Ingredients.Contains("Espresso"))
             {
                 CoffeeType = "Latte";
@@ -89,27 +77,31 @@ namespace EspressoTest
 
     }
 
-
     class Cappuccino
     {
 
     }
+
     class Americano
     {
 
     }
+
     class Espresso
     {
 
     }
+
     class Macchiato
     {
 
     }
+
     class Mocha
     {
 
     }
+
     class Latte
     {
 
