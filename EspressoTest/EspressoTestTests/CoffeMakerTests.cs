@@ -14,6 +14,15 @@ namespace EspressoTest.Tests
         [TestMethod()]
         public void AddEspressoTest()
         {
+            // Arrange the data.
+            string s = "hello";
+            int i = 3;
+
+            // Act on the data.
+            string result = Program.(s, i);
+
+            // Assert about the result.
+            Assert.AreEqual("hellohellohello", result);
             Assert.Fail();
         }
 
